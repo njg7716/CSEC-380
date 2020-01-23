@@ -1,0 +1,3 @@
+192.168.1.236 - - [05/Mar/2019:03:56:37 +0000] "GET / HTTP/1.1" 200 122 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" "-"
+192.168.1.236 - - [05/Mar/2019:03:56:38 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://192.168.1.207/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" "-"
+129.21.183.63 - - [05/Mar/2019:03:57:07 +0000] "GET / HTTP/1.1" 200 122 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/53 (KHTML, like Gecko) Chaim/15.0.87" "-"
